@@ -36,8 +36,8 @@ Tacômetro e velocímetro digitais desenvolvidos com ESP32 e display OLED de 128
 
 ## HABILIDADES
 
-**Linguagens de Programação:** Python, SQL, C, C++
-**Bancos de Dados:** PostgreSQL, SQLite
-**Backend:** FastAPI, SQLAlchemy, Alembic, Pydantic
-**Testes:** Pytest
-**Ferramentas:** Git, Docker, Kubernetes, Helm
+**Linguagens de Programação:** Python, SQL, C, C++ 
+**Bancos de Dados:** PostgreSQL, SQLite 
+**Backend:** FastAPI, SQLAlchemy, Alembic, Pydantic 
+**Testes:** Pytest 
+**Ferramentas:** Git, Docker, Kubernetes, Helm 
