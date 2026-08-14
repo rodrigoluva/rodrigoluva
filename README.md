@@ -36,8 +36,8 @@ A digital tachometer and speedometer built with an ESP32 and a 128×64 OLED disp
 
 ## SKILLS
 
-**Programming Languages:** Python, SQL, C, C++ 
-**Databases:** PostgreSQL, SQLite 
-**Backend:** FastAPI, SQLAlchemy, Alembic, Pydantic 
-**Testing:** Pytest 
-**Tools:** Git, Docker, Kubernetes, Helm 
+**Programming Languages:** Python, SQL, C, C++  
+**Databases:** PostgreSQL, SQLite  
+**Backend:** FastAPI, SQLAlchemy, Alembic, Pydantic  
+**Testing:** Pytest  
+**Tools:** Git, Docker, Kubernetes, Helm  
