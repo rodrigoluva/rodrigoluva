@@ -1,12 +1,12 @@
 # Rodrigo Valladão
 
-**Desenvolvedor Backend | Dados & Machine Learning**
+**Data Science | Python | SQL | Data Analysis | Machine Learning**
 
 Português | [English](README.md#rodrigo-valladão)
 
 ## SOBRE MIM
 
-Sou um Engenheiro Mecânico em transição para as áreas de desenvolvimento de software e dados. Gosto de criar aplicações de backend, trabalhar com bancos de dados e APIs, e desenvolver soluções de aprendizado de máquina. Meu foco atual está no desenvolvimento de projetos em Python voltados para produção e na aplicação de práticas de desenvolvimento de software e ciência de dados para resolver problemas do mundo real.
+Sou um engenheiro mecânico em transição para a área de Ciência de Dados, com grande interesse em utilizar dados, estatística e aprendizado de máquina para resolver problemas do mundo real. Estou desenvolvendo projetos práticos com Python, SQL, análise de dados e aprendizado de máquina, ao mesmo tempo em que construo uma base sólida em desenvolvimento de software por meio de projetos de backend.
 
 ## PROJETOS
 
