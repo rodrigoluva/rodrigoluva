@@ -6,7 +6,7 @@ English | [Português](README.pt-BR.md#rodrigo-valladão)
 
 ## ABOUT ME
 
-I'm a Mechanical Engineer transitioning into software engineering and data. I enjoy building backend applications, working with databases and APIs, and developing machine learning solutions. My current focus is on building production-oriented Python projects and applying software engineering and data science practices to real-world problems.
+I'm a Mechanical Engineer transitioning into software development and data. I enjoy building backend applications, working with databases and APIs, and developing machine learning solutions. My current focus is on building production-oriented Python projects and applying software development and data science practices to real-world problems.
 
 ## PROJECTS
 

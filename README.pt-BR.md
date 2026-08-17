@@ -6,7 +6,7 @@ Português | [English](README.md#rodrigo-valladão)
 
 ## SOBRE MIM
 
-Sou um Engenheiro Mecânico em transição para as áreas de engenharia de software e dados. Gosto de criar aplicações de backend, trabalhar com bancos de dados e APIs, e desenvolver soluções de aprendizado de máquina. Meu foco atual está no desenvolvimento de projetos em Python voltados para produção e na aplicação de práticas de engenharia de software e ciência de dados para resolver problemas do mundo real.
+Sou um Engenheiro Mecânico em transição para as áreas de desenvolvimento de software e dados. Gosto de criar aplicações de backend, trabalhar com bancos de dados e APIs, e desenvolver soluções de aprendizado de máquina. Meu foco atual está no desenvolvimento de projetos em Python voltados para produção e na aplicação de práticas de desenvolvimento de software e ciência de dados para resolver problemas do mundo real.
 
 ## PROJETOS
 
