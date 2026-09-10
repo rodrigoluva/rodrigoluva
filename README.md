@@ -48,7 +48,7 @@ A digital tachometer and speedometer built with an ESP32 and a 128×64 OLED disp
 
 **Programming Languages:** Python, SQL, C, C++  
 **Databases:** PostgreSQL, SQLite  
-**Backend:** FastAPI, SQLAlchemy, Alembic, Pydantic, Django, Django REST Framework
-**Frontend:** Django Templates, Bootstrap
+**Backend:** FastAPI, SQLAlchemy, Alembic, Pydantic, Django, Django REST Framework  
+**Frontend:** Django Templates, Bootstrap  
 **Testing:** Pytest  
 **Tools:** Git, Docker, Kubernetes, Helm  
