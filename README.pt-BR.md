@@ -12,6 +12,16 @@ Sou um engenheiro mecânico em transição para a área de Ciência de Dados, co
 
 ### Backend
 
+#### Rental Management API
+
+Uma aplicação web e API REST para gestão de aluguéis, desenvolvida com Django e Django REST Framework. O sistema gerencia imóveis para locação, reservas, hóspedes, despesas e desempenho financeiro, contando com funcionalidades de autenticação. Ele oferece tanto uma interface baseada em navegador quanto uma API RESTful para a gestão das operações de locação.
+
+**Foco:** Desenvolvimento de aplicações web • Desenvolvimento de API REST • Modelagem de banco de dados • Autenticação • Métricas financeiras
+
+**Tecnologias:** Python • Django • Django REST Framework • PostgreSQL • Django Templates • Bootstrap • JavaScript • Docker • MkDocs
+
+**Repositório GitHub:** [rental-management-api](https://github.com/rodrigoluva/rental-management-api)
+
 #### Library API
 
 Uma API RESTful de gerenciamento de biblioteca desenvolvida com FastAPI e PostgreSQL. O sistema gerencia usuários, autores, livros, exemplares e registros de empréstimo, contando com autenticação e autorização baseada em funções (RBAC).
@@ -38,6 +48,7 @@ Tacômetro e velocímetro digitais desenvolvidos com ESP32 e display OLED de 128
 
 **Linguagens de Programação:** Python, SQL, C, C++  
 **Bancos de Dados:** PostgreSQL, SQLite  
-**Backend:** FastAPI, SQLAlchemy, Alembic, Pydantic  
+**Backend:** FastAPI, SQLAlchemy, Alembic, Pydantic, Django, Django REST Framework
+**Frontend:** Django Templates, Bootstrap
 **Testes:** Pytest  
 **Ferramentas:** Git, Docker, Kubernetes, Helm  
